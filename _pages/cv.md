@@ -11,54 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, Northeastern University, 2023
+* B.S. in Computer Science, Washington State University, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Nov. 2023 - Present: Software Engineer, at Flowmingle, INC
+  * Participate in software development in front-end with Dart under Flutter framework and in back-end with Firebase database.
+  * Work with UI/UX designers closely to design, develop and improve the layout.
+  * Test the developed graphical interfaces on different browsers including Chrome, Firefox, Edge, and Safari to ensure the compatibility of the platform. 
+  * Develop a cross-browser/platform (including iOS, Android, and website) with the team to match design specs for complex page layouts and usability.
+  * Write structured security rules that control access of database storage to guard our data in particular rules and prevent data loss or overlay by accident.
+  * Participant database design and write detailed back-end documentation.
+  * Develop the interfaces graphical interfaces following the Model-View-Controller (MVC) architecture and follow application development life circle methodology. 
+  * Manipulate and debug the code in the project and implement version control using GitHub.
+  * Review and commit other developers’ code to ensure the consistency of the project and avoid any conflict of code.
+  * Write a daily development log and report progress to the product manager.
+  * Train new internships, including product introduction, code overview, explain front-end design and back-end database, assign tasks, review their submitted work, and debugging analysis.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2023 - Nov. 2023: Front-End Developer, at United Software Corporation
+  * Design web-based graphical interfaces for working with complex datasets.
+  * Develop and deploy new features of in-house generated datasets and iteration of experimental design using reusable React components. 
+  * Manage the versions and collaborate with the other developers using version control tools Git and Git Extension. 
+  * Balance object-oriented design and programming concepts with the ability to communicate clearly with both business and technology users. 
+  * Work with other developers to manage the software development versions using Git. 
+  * Provide technical solutions to clients and communicate with them on time.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming Languages
+  * Python, Java, JavaScript, C/C++, HTML, CSS, Dart
+* Frameworks
+  * React, Redux, Flutter
+* Technical Tools
+  * MS Visual Studio, Android Studio, Version Control System (Git)
+* Systems
+  * Windows, Linux
+* Research & Planning
+  * Identifying problems, gathering information, data analyzing, developing evaluations, calculating results, strong mathematical and statistical ability
