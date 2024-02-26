@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 * M.S. in Computer Science, Northeastern University, 2023
 * B.S. in Computer Science, Washington State University, 2021
 
-Work experience
-======
+## Work experience
+
 * Nov. 2023 - Present: Software Engineer, at Flowmingle, INC
   * Participate in software development in front-end with Dart under Flutter framework and in back-end with Firebase database.
   * Work with UI/UX designers closely to design, develop and improve the layout.
@@ -29,7 +29,6 @@ Work experience
   * Write a daily development log and report progress to the product manager.
   * Train new internships, including product introduction, code overview, explain front-end design and back-end database, assign tasks, review their submitted work, and debugging analysis.
 
-
 * May 2023 - Nov. 2023: Front-End Developer, at United Software Corporation
   * Design web-based graphical interfaces for working with complex datasets.
   * Develop and deploy new features of in-house generated datasets and iteration of experimental design using reusable React components. 
@@ -38,8 +37,8 @@ Work experience
   * Work with other developers to manage the software development versions using Git. 
   * Provide technical solutions to clients and communicate with them on time.
   
-Skills
-======
+## Skills
+
 * Programming Languages
   * Python, Java, JavaScript, C/C++, HTML, CSS, Dart
 * Frameworks
