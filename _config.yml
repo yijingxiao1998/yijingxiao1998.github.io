@@ -21,7 +21,7 @@ repository               : "yijingxiao1998/yijingxiao1998.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.jpg"
+  avatar           : "profile.png"
   name             : "Yijing Xiao"
   pronouns         : # example: "she/her"  
   bio              : "Software Engineer / Front-End Developer"
