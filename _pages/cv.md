@@ -30,7 +30,6 @@ redirect_from:
   * Review and commit other developers’ code to ensure the consistency of the project and avoid any conflict of code.
   * Write a daily development log and report progress to the product manager.
   * Train new internships, including product introduction, code overview, explain front-end design and back-end database, assign tasks, review their submitted work, and debugging analysis.
-  * We've already launched our product on the [Apple Store](https://apps.apple.com/us/app/flowmingle/id6468864449), [Google Play](https://play.google.com/store/apps/details?id=live.flowmingle), and of course, we also have a [website version](https://flowmingle.live/)
 
 * May 2023 - Nov. 2023: Front-End Developer, at United Software Corporation
   * Design web-based graphical interfaces for working with complex datasets.

@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Flowmingle Social Networking Application	(Nov. 2023 - Present)
+## Flowmingle Social Networking Application	(Nov. 2023 - Apr. 2024)
 
 * Technology
   * Language: Dart
@@ -21,7 +21,7 @@ redirect_from:
   * We used Figma to set up the prototype first and followed modern Model-View-Controller design to implement an accessibility and inclusivity product. After the user gives location permission, the explore page in APP would show any social events posted nearby users and they could change location to check out some events in other cities at any time. 
 * Future works
   * We still keep developing new features in the upcoming future: the function of tipping for host, supporting more languages, recommending events by languages, applying intelligence algorithm to recommend events for user interest, and importing more local events data automatically to our APP.
-* Try our APP in website: ([FLOW MINGLE](https://flowmingle.live))
+* We've already launched our product on the [Apple Store](https://apps.apple.com/us/app/flowmingle/id6468864449), [Google Play](https://play.google.com/store/apps/details?id=live.flowmingle), and of course, we also have a [website version](https://flowmingle.live/)
 
 ## Stock Market (Sept. 2022 - Dec. 2022)
 
