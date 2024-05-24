@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I’m currently working remotely for [Flowmingle, inc](https://www.linkedin.com/company/flowmingle-live/) as a Software Engineer. Our company is developing a social networking app for users to hold and find all sorts of activities and connect. We hope we could bring warmth, happiness, fun, friendship, and courage to our users. We've already launched our product on the [Apple Store](https://apps.apple.com/us/app/flowmingle/id6468864449), [Google Play](https://play.google.com/store/apps/details?id=live.flowmingle), and of course, we also have a [website version](https://flowmingle.live/). Please feel free to check out our product and bring any feedback or advice to us.
+I’m currently working remotely for [Jade Bird Fire Alarm International](https://en.jbufa.com/About/index/id/453) as a Software Engineer. Our company has been productising the modern information and sensing technology into advanced fire electronic devices and intelligent fire control systems, and has become a highly professional company that provides fire safety electronic products and intelligent fire safety system services. The company’s services include fire safety product researching, developing, producing, sales and value-added services. With reliable product quality, the company has gained more than a hundred of domestic and international certificates.
 
-Besides, my career interests include Software Development, Full-Stack Development, Embedded Software Development, and some parts of the Machine Learning area. 
+Besides, my career interests include Software Development, Full-Stack Development, AI engineer, and some parts of the Large Language Model traning area. 
 
 My timezone is based on the Pacific Time Zone, feel free to reach out to me by email at any work time in the workday.
-A data-driven personal website

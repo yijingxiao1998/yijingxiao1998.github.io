@@ -16,7 +16,9 @@ redirect_from:
 
 ## Work experience
 
-* Nov. 2023 - Present: Software Engineer, at Flowmingle, INC
+* Apr. 2024 - Present: Software Engineer, at Jade Bird Fire Alarm International (USA) Co., Ltd
+  * Participate in Retrieval-Augmented Generation (RAG) for project of building artificial intelligent agent
+* Nov. 2023 - Mar. 2024: Software Engineer, at Flowmingle, INC
   * Participate in software development in front-end with Dart under Flutter framework and in back-end with Firebase database.
   * Work with UI/UX designers closely to design, develop and improve the layout.
   * Test the developed graphical interfaces on different browsers including Chrome, Firefox, Edge, and Safari to ensure the compatibility of the platform. 
@@ -28,6 +30,7 @@ redirect_from:
   * Review and commit other developers’ code to ensure the consistency of the project and avoid any conflict of code.
   * Write a daily development log and report progress to the product manager.
   * Train new internships, including product introduction, code overview, explain front-end design and back-end database, assign tasks, review their submitted work, and debugging analysis.
+  * We've already launched our product on the [Apple Store](https://apps.apple.com/us/app/flowmingle/id6468864449), [Google Play](https://play.google.com/store/apps/details?id=live.flowmingle), and of course, we also have a [website version](https://flowmingle.live/)
 
 * May 2023 - Nov. 2023: Front-End Developer, at United Software Corporation
   * Design web-based graphical interfaces for working with complex datasets.
@@ -44,7 +47,7 @@ redirect_from:
 * Frameworks
   * React, Redux, Flutter
 * Technical Tools
-  * MS Visual Studio, Android Studio, Version Control System (Git)
+  * MS Visual Studio, Android Studio, Version Control System (Git), Amazon Web Services (AWS)
 * Systems
   * Windows, Linux
 * Research & Planning
