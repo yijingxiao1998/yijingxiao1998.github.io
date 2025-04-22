@@ -17,7 +17,7 @@ redirect_from:
 ## Work experience
 
 * Apr. 2024 - Present: Full time Software Engineer, at Jade Bird Fire Alarm International (USA) Co., Ltd
-  * 1.	Jan. 2025 – Present: Intelligent Assistant Customer Service Agent 			
+  * Jan. 2025 – Present: Intelligent Assistant Customer Service Agent 			
     * Participate in Retrieval-Augmented Generation (RAG) for project of building artificial intelligent agent				      
     *	Engineered responsive front-end interfaces utilizing HTML5, CSS3, and JavaScript to meet specific product requirements and enhance user experience.
     *	Collaborated closely with back-end engineers to establish seamless API integration and data flow between front-end and back-end systems.
@@ -29,7 +29,7 @@ redirect_from:
     *	Conducted comprehensive functional testing across all modules to identify and resolve potential issues, ensuring optimal system performance and reliability.
     *	Engineered a responsive interrupt feature enabling users to halt customer service output, providing greater control over information flow.
     *	Performed extensive cross-device compatibility testing using actual mobile devices to verify proper functionality and responsive design across various screen sizes.
-  * 2.	Apr. 2024 – Dec. 2024: Company Document Wiki Project 								
+  * Apr. 2024 – Dec. 2024: Company Document Wiki Project 								
     *	Leveraged the open-source MediaWiki framework to design and implement a comprehensive knowledge management system tailored to company specifications.
     *	Systematically organized and digitized internal corporate documentation, creating a structured repository of accessible information for employees.
     *	Developed a seamless Single Sign-On integration with the company's internal "Qingluan" system ("Qingluan" is an internal system of the company), streamlining authentication processes and enhancing user accessibility.
@@ -46,35 +46,56 @@ redirect_from:
     *	Provided ongoing maintenance, bug fixes, and content updates to ensure platform reliability and information accuracy.
 
 * Nov. 2023 - Mar. 2024: Software Engineer, at Flowmingle, INC
-  * Participate in software development in front-end with Dart under Flutter framework and in back-end with Firebase database.
-  * Work with UI/UX designers closely to design, develop and improve the layout.
-  * Test the developed graphical interfaces on different browsers including Chrome, Firefox, Edge, and Safari to ensure the compatibility of the platform. 
-  * Develop a cross-browser/platform (including iOS, Android, and website) with the team to match design specs for complex page layouts and usability.
-  * Write structured security rules that control access of database storage to guard our data in particular rules and prevent data loss or overlay by accident.
-  * Participant database design and write detailed back-end documentation.
-  * Develop the interfaces graphical interfaces following the Model-View-Controller (MVC) architecture and follow application development life circle methodology. 
-  * Manipulate and debug the code in the project and implement version control using GitHub.
-  * Review and commit other developers’ code to ensure the consistency of the project and avoid any conflict of code.
-  * Write a daily development log and report progress to the product manager.
-  * Train new internships, including product introduction, code overview, explain front-end design and back-end database, assign tasks, review their submitted work, and debugging analysis.
+  * Contributed significantly to cross-platform application development using Dart and the Flutter framework for front-end implementation, while leveraging Firebase for back-end database management.
+  * Collaborated extensively with UI/UX design team to translate wireframes and mockups into functional interfaces, ensuring adherence to design specifications and brand guidelines.
+  * Conducted comprehensive cross-browser compatibility testing across Chrome, Firefox, Edge, and Safari to identify and resolve rendering inconsistencies and ensure optimal performance.
+  * Engineered responsive layouts for complex page designs that maintain visual integrity and functionality across desktop and mobile platforms.
+  * Developed user interfaces following strict Model-View-Controller (MVC) architectural patterns to ensure code maintainability, scalability, and separation of concerns.
+  * Adhered to industry-standard application development lifecycle methodologies, participating in all phases from requirements gathering to deployment and maintenance.
+  * Performed systematic code debugging and optimization, while implementing version control protocols using GitHub to maintain code integrity.
+  * Participated in peer code reviews to ensure code quality, adherence to best practices, and prevent integration conflicts within the collaborative development environment.
+  * Maintained detailed development logs and provided regular progress updates to product management, facilitating transparent communication and project visibility.
 
 * May 2023 - Nov. 2023: Front-End Developer, at United Software Corporation
-  * Design web-based graphical interfaces for working with complex datasets.
-  * Develop and deploy new features of in-house generated datasets and iteration of experimental design using reusable React components. 
-  * Manage the versions and collaborate with the other developers using version control tools Git and Git Extension. 
-  * Balance object-oriented design and programming concepts with the ability to communicate clearly with both business and technology users. 
-  * Work with other developers to manage the software development versions using Git. 
-  * Provide technical solutions to clients and communicate with them on time.
+  * Designed sophisticated web-based graphical user interfaces optimized for visualizing and manipulating complex datasets, enhancing data accessibility and user comprehension.
+  * Developed and deployed new features utilizing reusable React components to efficiently process in-house generated datasets and support iterative experimental design methodologies.
+  * Leveraged version control tools including Git and Git Extension to manage code repositories and facilitate collaborative development with distributed team members.
+  * Employed object-oriented design principles while maintaining clear communication channels with both technical and non-technical stakeholders to ensure project alignment.
+  * Collaborated effectively with cross-functional development teams to implement version control strategies that maintained code integrity throughout the development lifecycle.
+  * Provided comprehensive technical solutions to clients, maintaining consistent communication channels to address requirements and delivering timely project updates.
+
   
 ## Skills
 
 * Programming Languages
-  * Python, Java, JavaScript, C/C++, HTML, CSS, Dart
+  * Advanced: Python, Java, JavaScript, HTML, CSS
+  * Competent: Dart, PHP, C/C++,
 * Frameworks
-  * React, Redux, Flutter
-* Technical Tools
-  * MS Visual Studio, Android Studio, Version Control System (Git), Amazon Web Services (AWS)
-* Systems
-  * Windows, Linux
-* Research & Planning
-  * Identifying problems, gathering information, data analyzing, developing evaluations, calculating results, strong mathematical and statistical ability
+  * Front-End: React, Redux, Flutter
+  * AI/ML:LangChain
+  * Additional: MediaWiki, Alpha Vantage API
+* Databases
+  * Relational: MySQL, MariaDB, PostgreSQL
+  * Graph: Neo4j
+  * Cloud: Firebase
+* Development Tools
+  * IDEs: Microsoft Visual Studio Code, Android Studio
+  * Version Control: Version Control System (Git)
+  * Cloud Services: Amazon Web Services
+* Authentication & Security
+  * Identity Management: Auth0, Casdoor
+  * Web Security: SSL Certificate Implementation
+* Operating Systems
+  * Windows (Desktop & Server), Linux (Ubuntu, CentOS)
+* Professional Skills
+  * Full-stack application architecture design
+  * Responsive web development for cross-platform compatibility
+  * RESTful API integration and development
+  * UI/UX implementation from design specifications
+  * Data structure optimization and algorithm development
+  * Database schema design and query optimization
+* Analysis & Problem-Solving
+  * Requirements gathering and technical specification development
+  * Data analysis and visualization, Performance optimization and debugging
+  * Statistical modeling and quantitative analysis
+  * Complex problem identification and systematic resolution
