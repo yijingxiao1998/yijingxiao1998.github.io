@@ -16,8 +16,35 @@ redirect_from:
 
 ## Work experience
 
-* Apr. 2024 - Present: Software Engineer, at Jade Bird Fire Alarm International (USA) Co., Ltd
-  * Participate in Retrieval-Augmented Generation (RAG) for project of building artificial intelligent agent
+* Apr. 2024 - Present: Full time Software Engineer, at Jade Bird Fire Alarm International (USA) Co., Ltd
+  * 1.	Jan. 2025 – Present: Intelligent Assistant Customer Service Agent 			
+    * Participate in Retrieval-Augmented Generation (RAG) for project of building artificial intelligent agent				      
+    *	Engineered responsive front-end interfaces utilizing HTML5, CSS3, and JavaScript to meet specific product requirements and enhance user experience.
+    *	Collaborated closely with back-end engineers to establish seamless API integration and data flow between front-end and back-end systems.
+    *	Implemented and configured advanced open-source solutions to effectively resolve cross-domain issues, ensuring secure data transmission across different domains.
+    *	Developed a sophisticated streaming output mechanism for delivering real-time product information through the company's AI assistant.
+    *	Created an intuitive reference citation system that intelligently marks company documents as sources within assistant outputs, enabling users to access relevant documentation through interactive hyperlinks.
+    *	Successfully configured a secure domain with SSL certification for the customer service platform, ensuring encrypted data transmission and establishing user trust.
+    *	Enhanced the platform's functionality by implementing an internet search capability, allowing users to access information beyond internal company documentation.
+    *	Conducted comprehensive functional testing across all modules to identify and resolve potential issues, ensuring optimal system performance and reliability.
+    *	Engineered a responsive interrupt feature enabling users to halt customer service output, providing greater control over information flow.
+    *	Performed extensive cross-device compatibility testing using actual mobile devices to verify proper functionality and responsive design across various screen sizes.
+  * 2.	Apr. 2024 – Dec. 2024: Company Document Wiki Project 								
+    *	Leveraged the open-source MediaWiki framework to design and implement a comprehensive knowledge management system tailored to company specifications.
+    *	Systematically organized and digitized internal corporate documentation, creating a structured repository of accessible information for employees.
+    *	Developed a seamless Single Sign-On integration with the company's internal "Qingluan" system ("Qingluan" is an internal system of the company), streamlining authentication processes and enhancing user accessibility.
+    *	Implemented advanced privacy controls through the "Private" designation system, restricting sensitive content to authenticated users to maintain document confidentiality.
+    *	Engineered a powerful internal search functionality with indexing capabilities, enabling users to efficiently locate specific documents within the extensive knowledge base.
+    *	Established a hierarchical permission system with administrator approval workflows for content creation and modification, ensuring content quality and accuracy.
+    *	Developed an intuitive WYSIWYG editor that automatically converts user input into Wiki markup language while supporting image uploads with database storage integration.
+    *	Configured secure domain settings with SSL certification to ensure encrypted data transmission for all wiki interactions.
+    *	Incorporated real-time analytics functionality to monitor page views and user engagement metrics for performance evaluation.
+    *	Created and implemented automation scripts to efficiently populate the wiki with structured company data, reducing manual entry requirements.
+    *	Engineered a high-resolution PDF viewer with progressive loading capabilities, optimizing document viewing experience and reducing bandwidth consumption.
+    *	Developed a comprehensive file management system supporting multiple document formats (DOC, PDF, Excel) with customizable size and format restrictions.
+    *	Designed and implemented both desktop and mobile-responsive interfaces, ensuring optimal user experience across all device types and screen sizes.
+    *	Provided ongoing maintenance, bug fixes, and content updates to ensure platform reliability and information accuracy.
+
 * Nov. 2023 - Mar. 2024: Software Engineer, at Flowmingle, INC
   * Participate in software development in front-end with Dart under Flutter framework and in back-end with Firebase database.
   * Work with UI/UX designers closely to design, develop and improve the layout.
